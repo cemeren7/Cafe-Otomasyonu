@@ -1,0 +1,125 @@
+C:\Users\Lenovo\Desktop\Cafe Otomasyonu\Cafe Otomasyonu\bin\Debug\Cafe Otomasyonu.exe.config
+C:\Users\Lenovo\Desktop\Cafe Otomasyonu\Cafe Otomasyonu\bin\Debug\Cafe Otomasyonu.exe
+C:\Users\Lenovo\Desktop\Cafe Otomasyonu\Cafe Otomasyonu\bin\Debug\Cafe Otomasyonu.pdb
+C:\Users\Lenovo\Desktop\Cafe Otomasyonu\Cafe Otomasyonu\obj\Debug\Cafe Otomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Cafe Otomasyonu\Cafe Otomasyonu\obj\Debug\Cafe_Otomasyonu.Form1.resources
+C:\Users\Lenovo\Desktop\Cafe Otomasyonu\Cafe Otomasyonu\obj\Debug\Cafe_Otomasyonu.Form2.resources
+C:\Users\Lenovo\Desktop\Cafe Otomasyonu\Cafe Otomasyonu\obj\Debug\Cafe_Otomasyonu.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Cafe Otomasyonu\Cafe Otomasyonu\obj\Debug\Cafe Otomasyonu.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Cafe Otomasyonu\Cafe Otomasyonu\obj\Debug\Cafe Otomasyonu.exe
+C:\Users\Lenovo\Desktop\Cafe Otomasyonu\Cafe Otomasyonu\obj\Debug\Cafe Otomasyonu.pdb
+C:\Users\Efe\OneDrive\Masaüstü\Cafe Otomasyonu\Cafe Otomasyonu\bin\Debug\Cafe Otomasyonu.exe.config
+C:\Users\Efe\OneDrive\Masaüstü\Cafe Otomasyonu\Cafe Otomasyonu\obj\Debug\Cafe Otomasyonu.exe
+C:\Users\Efe\OneDrive\Masaüstü\Cafe Otomasyonu\Cafe Otomasyonu\obj\Debug\Cafe Otomasyonu.pdb
+C:\Users\Efe\OneDrive\Masaüstü\Cafe Otomasyonu\Cafe Otomasyonu\bin\Debug\Cafe Otomasyonu.exe
+C:\Users\Efe\OneDrive\Masaüstü\Cafe Otomasyonu\Cafe Otomasyonu\bin\Debug\Cafe Otomasyonu.pdb
+C:\Users\Efe\OneDrive\Masaüstü\Cafe Otomasyonu\Cafe Otomasyonu\obj\Debug\Cafe Otomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\Efe\OneDrive\Masaüstü\Cafe Otomasyonu\Cafe Otomasyonu\obj\Debug\Cafe_Otomasyonu.Form1.resources
+C:\Users\Efe\OneDrive\Masaüstü\Cafe Otomasyonu\Cafe Otomasyonu\obj\Debug\Cafe_Otomasyonu.Form2.resources
+C:\Users\Efe\OneDrive\Masaüstü\Cafe Otomasyonu\Cafe Otomasyonu\obj\Debug\Cafe_Otomasyonu.Properties.Resources.resources
+C:\Users\Efe\OneDrive\Masaüstü\Cafe Otomasyonu\Cafe Otomasyonu\obj\Debug\Cafe Otomasyonu.csproj.GenerateResource.Cache
+C:\Users\Efe\OneDrive\Masaüstü\Cafe Otomasyonu\Cafe Otomasyonu\obj\Debug\Cafe_Otomasyonu.Form3.resources
+C:\Users\Lenovo\Desktop\Cafe Otomasyonu\Cafe Otomasyonu\obj\Debug\Cafe_Otomasyonu.Form3.resources
+D:\Cafe Otomasyonu\Cafe Otomasyonu\bin\Debug\Cafe Otomasyonu.exe.config
+D:\Cafe Otomasyonu\Cafe Otomasyonu\obj\Debug\Cafe Otomasyonu.exe
+D:\Cafe Otomasyonu\Cafe Otomasyonu\obj\Debug\Cafe Otomasyonu.pdb
+D:\Cafe Otomasyonu\Cafe Otomasyonu\bin\Debug\Cafe Otomasyonu.exe
+D:\Cafe Otomasyonu\Cafe Otomasyonu\bin\Debug\Cafe Otomasyonu.pdb
+D:\Cafe Otomasyonu\Cafe Otomasyonu\obj\Debug\Cafe Otomasyonu.csprojResolveAssemblyReference.cache
+D:\Cafe Otomasyonu\Cafe Otomasyonu\obj\Debug\Cafe_Otomasyonu.Form1.resources
+D:\Cafe Otomasyonu\Cafe Otomasyonu\obj\Debug\Cafe_Otomasyonu.Form2.resources
+D:\Cafe Otomasyonu\Cafe Otomasyonu\obj\Debug\Cafe_Otomasyonu.Form3.resources
+D:\Cafe Otomasyonu\Cafe Otomasyonu\obj\Debug\Cafe_Otomasyonu.Properties.Resources.resources
+D:\Cafe Otomasyonu\Cafe Otomasyonu\obj\Debug\Cafe Otomasyonu.csproj.GenerateResource.Cache
+C:\Users\Efe\OneDrive\Masaüstü\Cafe Otomasyonu - Kopya\Cafe Otomasyonu\bin\Debug\Cafe Otomasyonu.exe.config
+C:\Users\Efe\OneDrive\Masaüstü\Cafe Otomasyonu - Kopya\Cafe Otomasyonu\obj\Debug\Cafe Otomasyonu.exe
+C:\Users\Efe\OneDrive\Masaüstü\Cafe Otomasyonu - Kopya\Cafe Otomasyonu\obj\Debug\Cafe Otomasyonu.pdb
+C:\Users\Efe\OneDrive\Masaüstü\Cafe Otomasyonu - Kopya\Cafe Otomasyonu\bin\Debug\Cafe Otomasyonu.exe
+C:\Users\Efe\OneDrive\Masaüstü\Cafe Otomasyonu - Kopya\Cafe Otomasyonu\bin\Debug\Cafe Otomasyonu.pdb
+C:\Users\Efe\OneDrive\Masaüstü\Cafe Otomasyonu - Kopya\Cafe Otomasyonu\obj\Debug\Cafe Otomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\Efe\OneDrive\Masaüstü\Cafe Otomasyonu - Kopya\Cafe Otomasyonu\obj\Debug\Cafe_Otomasyonu.Form1.resources
+C:\Users\Efe\OneDrive\Masaüstü\Cafe Otomasyonu - Kopya\Cafe Otomasyonu\obj\Debug\Cafe_Otomasyonu.Form2.resources
+C:\Users\Efe\OneDrive\Masaüstü\Cafe Otomasyonu - Kopya\Cafe Otomasyonu\obj\Debug\Cafe_Otomasyonu.Form3.resources
+C:\Users\Efe\OneDrive\Masaüstü\Cafe Otomasyonu - Kopya\Cafe Otomasyonu\obj\Debug\Cafe_Otomasyonu.Properties.Resources.resources
+C:\Users\Efe\OneDrive\Masaüstü\Cafe Otomasyonu - Kopya\Cafe Otomasyonu\obj\Debug\Cafe Otomasyonu.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Cafe Otomasyonu\Cafe Otomasyonu\obj\Debug\Cafe_Otomasyonu.Form4.resources
+C:\Users\Efe\OneDrive\Masaüstü\Cafe Otomasyonu\Cafe Otomasyonu\obj\Debug\Cafe_Otomasyonu.Form4.resources
+C:\Users\Lenovo\Desktop\Otomasyon\Cafe Otomasyonu\Cafe Otomasyonu\bin\Debug\Cafe Otomasyonu.exe.config
+C:\Users\Lenovo\Desktop\Otomasyon\Cafe Otomasyonu\Cafe Otomasyonu\obj\Debug\Cafe Otomasyonu.exe
+C:\Users\Lenovo\Desktop\Otomasyon\Cafe Otomasyonu\Cafe Otomasyonu\obj\Debug\Cafe Otomasyonu.pdb
+C:\Users\Lenovo\Desktop\Otomasyon\Cafe Otomasyonu\Cafe Otomasyonu\bin\Debug\Cafe Otomasyonu.exe
+C:\Users\Lenovo\Desktop\Otomasyon\Cafe Otomasyonu\Cafe Otomasyonu\bin\Debug\Cafe Otomasyonu.pdb
+C:\Users\Lenovo\Desktop\Otomasyon\Cafe Otomasyonu\Cafe Otomasyonu\obj\Debug\Cafe Otomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Otomasyon\Cafe Otomasyonu\Cafe Otomasyonu\obj\Debug\Cafe_Otomasyonu.Form1.resources
+C:\Users\Lenovo\Desktop\Otomasyon\Cafe Otomasyonu\Cafe Otomasyonu\obj\Debug\Cafe_Otomasyonu.Form2.resources
+C:\Users\Lenovo\Desktop\Otomasyon\Cafe Otomasyonu\Cafe Otomasyonu\obj\Debug\Cafe_Otomasyonu.Form3.resources
+C:\Users\Lenovo\Desktop\Otomasyon\Cafe Otomasyonu\Cafe Otomasyonu\obj\Debug\Cafe_Otomasyonu.Form4.resources
+C:\Users\Lenovo\Desktop\Otomasyon\Cafe Otomasyonu\Cafe Otomasyonu\obj\Debug\Cafe_Otomasyonu.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Otomasyon\Cafe Otomasyonu\Cafe Otomasyonu\obj\Debug\Cafe Otomasyonu.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Cafe Otomasyonu Dosyaları\Cafe Otomasyonu\Cafe Otomasyonu\bin\Debug\Cafe Otomasyonu.exe.config
+C:\Users\Lenovo\Desktop\Cafe Otomasyonu Dosyaları\Cafe Otomasyonu\Cafe Otomasyonu\obj\Debug\Cafe Otomasyonu.exe
+C:\Users\Lenovo\Desktop\Cafe Otomasyonu Dosyaları\Cafe Otomasyonu\Cafe Otomasyonu\obj\Debug\Cafe Otomasyonu.pdb
+C:\Users\Lenovo\Desktop\Rrojeler ve Dosyalar\Cafe Otomasyonu\Cafe Otomasyonu\Cafe Otomasyonu\bin\Debug\Cafe Otomasyonu.exe.config
+C:\Users\Lenovo\Desktop\Rrojeler ve Dosyalar\Cafe Otomasyonu\Cafe Otomasyonu\Cafe Otomasyonu\obj\Debug\Cafe Otomasyonu.exe
+C:\Users\Lenovo\Desktop\Rrojeler ve Dosyalar\Cafe Otomasyonu\Cafe Otomasyonu\Cafe Otomasyonu\obj\Debug\Cafe Otomasyonu.pdb
+C:\Users\Lenovo\Desktop\Rrojeler ve Dosyalar\Cafe Otomasyonu\Cafe Otomasyonu\Cafe Otomasyonu\bin\Debug\Cafe Otomasyonu.exe
+C:\Users\Lenovo\Desktop\Rrojeler ve Dosyalar\Cafe Otomasyonu\Cafe Otomasyonu\Cafe Otomasyonu\bin\Debug\Cafe Otomasyonu.pdb
+C:\Users\Lenovo\Desktop\Rrojeler ve Dosyalar\Cafe Otomasyonu\Cafe Otomasyonu\Cafe Otomasyonu\obj\Debug\Cafe_Otomasyonu.Form1.resources
+C:\Users\Lenovo\Desktop\Rrojeler ve Dosyalar\Cafe Otomasyonu\Cafe Otomasyonu\Cafe Otomasyonu\obj\Debug\Cafe_Otomasyonu.Form2.resources
+C:\Users\Lenovo\Desktop\Rrojeler ve Dosyalar\Cafe Otomasyonu\Cafe Otomasyonu\Cafe Otomasyonu\obj\Debug\Cafe_Otomasyonu.Form3.resources
+C:\Users\Lenovo\Desktop\Rrojeler ve Dosyalar\Cafe Otomasyonu\Cafe Otomasyonu\Cafe Otomasyonu\obj\Debug\Cafe_Otomasyonu.Form4.resources
+C:\Users\Lenovo\Desktop\Rrojeler ve Dosyalar\Cafe Otomasyonu\Cafe Otomasyonu\Cafe Otomasyonu\obj\Debug\Cafe_Otomasyonu.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Rrojeler ve Dosyalar\Cafe Otomasyonu\Cafe Otomasyonu\Cafe Otomasyonu\obj\Debug\Cafe Otomasyonu.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Rrojeler ve Dosyalar\Cafe Otomasyonu\Cafe Otomasyonu\Cafe Otomasyonu\obj\Debug\Cafe Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Rrojeler ve Dosyalar\Cafe Otomasyonu\Cafe Otomasyonu\Cafe Otomasyonu\obj\Debug\Cafe Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Efe\OneDrive\Masaüstü\Cafe Otomasyonu\Cafe Otomasyonu\Cafe Otomasyonu\bin\Debug\Cafe Otomasyonu.exe.config
+C:\Users\Efe\OneDrive\Masaüstü\Cafe Otomasyonu\Cafe Otomasyonu\Cafe Otomasyonu\obj\Debug\Cafe Otomasyonu.exe
+C:\Users\Efe\OneDrive\Masaüstü\Cafe Otomasyonu\Cafe Otomasyonu\Cafe Otomasyonu\obj\Debug\Cafe Otomasyonu.pdb
+C:\Users\Efe\OneDrive\Masaüstü\Cafe Otomasyonu\Cafe Otomasyonu\Cafe Otomasyonu\bin\Debug\Cafe Otomasyonu.exe
+C:\Users\Efe\OneDrive\Masaüstü\Cafe Otomasyonu\Cafe Otomasyonu\Cafe Otomasyonu\bin\Debug\Cafe Otomasyonu.pdb
+C:\Users\Efe\OneDrive\Masaüstü\Cafe Otomasyonu\Cafe Otomasyonu\Cafe Otomasyonu\obj\Debug\Cafe Otomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\Efe\OneDrive\Masaüstü\Cafe Otomasyonu\Cafe Otomasyonu\Cafe Otomasyonu\obj\Debug\Cafe_Otomasyonu.Form1.resources
+C:\Users\Efe\OneDrive\Masaüstü\Cafe Otomasyonu\Cafe Otomasyonu\Cafe Otomasyonu\obj\Debug\Cafe_Otomasyonu.Form2.resources
+C:\Users\Efe\OneDrive\Masaüstü\Cafe Otomasyonu\Cafe Otomasyonu\Cafe Otomasyonu\obj\Debug\Cafe_Otomasyonu.Form3.resources
+C:\Users\Efe\OneDrive\Masaüstü\Cafe Otomasyonu\Cafe Otomasyonu\Cafe Otomasyonu\obj\Debug\Cafe_Otomasyonu.Form4.resources
+C:\Users\Efe\OneDrive\Masaüstü\Cafe Otomasyonu\Cafe Otomasyonu\Cafe Otomasyonu\obj\Debug\Cafe_Otomasyonu.Properties.Resources.resources
+C:\Users\Efe\OneDrive\Masaüstü\Cafe Otomasyonu\Cafe Otomasyonu\Cafe Otomasyonu\obj\Debug\Cafe Otomasyonu.csproj.GenerateResource.Cache
+C:\Users\Efe\OneDrive\Masaüstü\Cafe Otomasyonu\Cafe Otomasyonu\Cafe Otomasyonu\obj\Debug\Cafe_Otomasyonu.Form5.resources
+C:\Users\Lenovo\Desktop\Cafe Otomasyonu\Cafe Otomasyonu\Cafe Otomasyonu\bin\Debug\Cafe Otomasyonu.exe.config
+C:\Users\Lenovo\Desktop\Cafe Otomasyonu\Cafe Otomasyonu\Cafe Otomasyonu\obj\Debug\Cafe Otomasyonu.exe
+C:\Users\Lenovo\Desktop\Cafe Otomasyonu\Cafe Otomasyonu\Cafe Otomasyonu\obj\Debug\Cafe Otomasyonu.pdb
+C:\Users\Lenovo\Desktop\Cafe Otomasyonu\Cafe Otomasyonu\Cafe Otomasyonu\bin\Debug\Cafe Otomasyonu.exe
+C:\Users\Lenovo\Desktop\Cafe Otomasyonu\Cafe Otomasyonu\Cafe Otomasyonu\bin\Debug\Cafe Otomasyonu.pdb
+C:\Users\Lenovo\Desktop\Cafe Otomasyonu\Cafe Otomasyonu\Cafe Otomasyonu\obj\Debug\Cafe Otomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Cafe Otomasyonu\Cafe Otomasyonu\Cafe Otomasyonu\obj\Debug\Cafe_Otomasyonu.Form1.resources
+C:\Users\Lenovo\Desktop\Cafe Otomasyonu\Cafe Otomasyonu\Cafe Otomasyonu\obj\Debug\Cafe_Otomasyonu.Form2.resources
+C:\Users\Lenovo\Desktop\Cafe Otomasyonu\Cafe Otomasyonu\Cafe Otomasyonu\obj\Debug\Cafe_Otomasyonu.Form3.resources
+C:\Users\Lenovo\Desktop\Cafe Otomasyonu\Cafe Otomasyonu\Cafe Otomasyonu\obj\Debug\Cafe_Otomasyonu.Form4.resources
+C:\Users\Lenovo\Desktop\Cafe Otomasyonu\Cafe Otomasyonu\Cafe Otomasyonu\obj\Debug\Cafe_Otomasyonu.Form5.resources
+C:\Users\Lenovo\Desktop\Cafe Otomasyonu\Cafe Otomasyonu\Cafe Otomasyonu\obj\Debug\Cafe_Otomasyonu.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Cafe Otomasyonu\Cafe Otomasyonu\Cafe Otomasyonu\obj\Debug\Cafe Otomasyonu.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Cafe Otomasyonu\Cafe Otomasyonu\Cafe Otomasyonu\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Lenovo\Desktop\Cafe Otomasyonu\Cafe Otomasyonu\Cafe Otomasyonu\bin\Debug\itextsharp.dll
+C:\Users\Lenovo\Desktop\Cafe Otomasyonu\Cafe Otomasyonu\Cafe Otomasyonu\bin\Debug\itextsharp.xml
+C:\Users\Efe\OneDrive\Masaüstü\Cafe Otomasyonu\Cafe Otomasyonu\Cafe Otomasyonu\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Efe\OneDrive\Masaüstü\Cafe Otomasyonu\Cafe Otomasyonu\Cafe Otomasyonu\bin\Debug\itextsharp.dll
+C:\Users\Efe\OneDrive\Masaüstü\Cafe Otomasyonu\Cafe Otomasyonu\Cafe Otomasyonu\bin\Debug\itextsharp.xml
+C:\Users\Efe\OneDrive\Masaüstü\Cafe Otomasyonu - Kopya\Cafe Otomasyonu\Cafe Otomasyonu\bin\Debug\Cafe Otomasyonu.exe.config
+C:\Users\Efe\OneDrive\Masaüstü\Cafe Otomasyonu - Kopya\Cafe Otomasyonu\Cafe Otomasyonu\obj\Debug\Cafe Otomasyonu.exe
+C:\Users\Efe\OneDrive\Masaüstü\Cafe Otomasyonu - Kopya\Cafe Otomasyonu\Cafe Otomasyonu\obj\Debug\Cafe Otomasyonu.pdb
+C:\Users\Efe\OneDrive\Masaüstü\Cafe Otomasyonu - Kopya\Cafe Otomasyonu\Cafe Otomasyonu\bin\Debug\Cafe Otomasyonu.exe
+C:\Users\Efe\OneDrive\Masaüstü\Cafe Otomasyonu - Kopya\Cafe Otomasyonu\Cafe Otomasyonu\bin\Debug\Cafe Otomasyonu.pdb
+C:\Users\Efe\OneDrive\Masaüstü\Cafe Otomasyonu - Kopya\Cafe Otomasyonu\Cafe Otomasyonu\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Efe\OneDrive\Masaüstü\Cafe Otomasyonu - Kopya\Cafe Otomasyonu\Cafe Otomasyonu\bin\Debug\itextsharp.dll
+C:\Users\Efe\OneDrive\Masaüstü\Cafe Otomasyonu - Kopya\Cafe Otomasyonu\Cafe Otomasyonu\bin\Debug\itextsharp.xml
+C:\Users\Efe\OneDrive\Masaüstü\Cafe Otomasyonu - Kopya\Cafe Otomasyonu\Cafe Otomasyonu\obj\Debug\Cafe Otomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\Efe\OneDrive\Masaüstü\Cafe Otomasyonu - Kopya\Cafe Otomasyonu\Cafe Otomasyonu\obj\Debug\Cafe_Otomasyonu.Form1.resources
+C:\Users\Efe\OneDrive\Masaüstü\Cafe Otomasyonu - Kopya\Cafe Otomasyonu\Cafe Otomasyonu\obj\Debug\Cafe_Otomasyonu.Form2.resources
+C:\Users\Efe\OneDrive\Masaüstü\Cafe Otomasyonu - Kopya\Cafe Otomasyonu\Cafe Otomasyonu\obj\Debug\Cafe_Otomasyonu.Form3.resources
+C:\Users\Efe\OneDrive\Masaüstü\Cafe Otomasyonu - Kopya\Cafe Otomasyonu\Cafe Otomasyonu\obj\Debug\Cafe_Otomasyonu.Form4.resources
+C:\Users\Efe\OneDrive\Masaüstü\Cafe Otomasyonu - Kopya\Cafe Otomasyonu\Cafe Otomasyonu\obj\Debug\Cafe_Otomasyonu.Form5.resources
+C:\Users\Efe\OneDrive\Masaüstü\Cafe Otomasyonu - Kopya\Cafe Otomasyonu\Cafe Otomasyonu\obj\Debug\Cafe_Otomasyonu.Properties.Resources.resources
+C:\Users\Efe\OneDrive\Masaüstü\Cafe Otomasyonu - Kopya\Cafe Otomasyonu\Cafe Otomasyonu\obj\Debug\Cafe Otomasyonu.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Cafe Otomasyonu - Kopya\Cafe Otomasyonu\Cafe Otomasyonu\bin\Debug\Cafe Otomasyonu.exe.config
+C:\Users\Lenovo\Desktop\Cafe Otomasyonu - Kopya\Cafe Otomasyonu\Cafe Otomasyonu\obj\Debug\Cafe Otomasyonu.exe
+C:\Users\Lenovo\Desktop\Cafe Otomasyonu - Kopya\Cafe Otomasyonu\Cafe Otomasyonu\obj\Debug\Cafe Otomasyonu.pdb
